@@ -12,3 +12,5 @@
 ![landing page 1](https://github.com/Jyoshna-7/OIBSIP/assets/145099946/d506cc04-9181-4b6d-86a6-8c8fa96ddb33)
 
 # Task-3 Temperature Converter
+
+![temperature](https://github.com/Jyoshna-7/OIBSIP/assets/145099946/3027bd26-16ac-4f71-b4b7-0eb10e1a8f3d)
